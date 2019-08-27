@@ -3,8 +3,6 @@
 
 # Features
 APP介面如下：<br> 
- - Manual: 於手機控制上、下、左、右(default mode)。<br> 
- - Auto: 車子自動前行，前方有障礙物時，後退、左轉、再前行。<br> 
 
 ![](https://github.com/rrrjjj2019/FPGA_controlling_APP/raw/master/readme_img/app.png)<br>
 Button有以下幾種:<br>
